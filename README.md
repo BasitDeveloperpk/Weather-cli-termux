@@ -13,6 +13,7 @@ A simple weather-checking tool for Termux using OpenWeatherMap API.
 git clone https://github.com/YOUR_USERNAME/weather-cli-termux.git
 cd weather-cli-termux
 bash install_weather.sh
+weather
 ```
 
 ## 🧠 Usage
