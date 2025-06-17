@@ -10,10 +10,9 @@ A simple weather-checking tool for Termux using OpenWeatherMap API.
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/weather-cli-termux.git
+https://github.com/BasitDeveloperpk/Weather-cli-termux.git
 cd weather-cli-termux
 bash install_weather.sh
-weather
 ```
 
 ## 🧠 Usage
