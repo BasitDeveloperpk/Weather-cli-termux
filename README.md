@@ -25,6 +25,7 @@ Yeh commands Termux me run karein:
 git clone https://github.com/BasitDeveloperpk/Weather-cli-termux.git
 cd Weather-cli-termux
 bash install_weather.sh
+source ~/.bashrc
 ```
 
 Installer:
